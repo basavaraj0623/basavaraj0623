@@ -1,18 +1,26 @@
 # Hi 👋, I'm Basava Raj  
 
 🚀 Full Stack Developer | MERN Stack | Python | SQL  
-💡 Passionate about building real-world, scalable web applications  
+💡 Passionate about building scalable, real-world web applications  
 
-🌐 **Portfolio:**  
-👉 [https://basavaraj-h-portfolio-site.lovable.app](https://basavaraj-h-portfolio-site.lovable.app)
+---
+
+## 🌐 Portfolio & Live Projects  
+
+🌍 Portfolio:  
+👉 https://basavaraj-h-portfolio-site.lovable.app  
+
+🍽️ Smart Cafeteria (Live):  
+[![Live Demo](https://img.shields.io/badge/Smart%20Cafeteria-Live%20Demo-green?style=for-the-badge)](https://smart-cafeteria-zeta.vercel.app)
 
 ---
 
 ## 👨‍💻 About Me
 - 🔭 Currently working on **Full Stack & AI-powered projects**
 - 🌱 Learning **advanced MERN, system design, and automation**
-- 🧠 Strong in **problem-solving & backend logic**
+- 🧠 Strong in **problem-solving & backend architecture**
 - 🎯 Career goal: **Software / Full Stack Developer**
+- ⚡ Built & deployed real-world apps using MERN stack
 - 📫 Reach me via GitHub or Portfolio
 
 ---
@@ -42,23 +50,35 @@
 
 ## 📌 Featured Projects
 
-### 🏫 Smart Cafeteria Management System (MERN)
-- Role-based authentication (Admin/User)
-- Real-time order tracking
-- Email notifications & OTP verification
-- Admin dashboards & analytics
+### 🍽️ Smart Cafeteria Management System (MERN)
+🚀 **Live:** https://smart-cafeteria-zeta.vercel.app  
+
+- Role-based authentication (Admin/User)  
+- Real-time order tracking (socket-based)  
+- Email notifications & OTP verification  
+- Admin dashboard with analytics  
+- Secure backend APIs (JWT + MongoDB)  
+
+---
 
 ### ✈️ AI Travel Planner
-- AI-powered itinerary generation
-- Workflow automation using n8n
-- Dynamic user-based travel plans
+- AI-powered itinerary generation  
+- Workflow automation using n8n  
+- Dynamic user-based travel plans  
 
-👉 More projects on my repositories ⬇️
+---
+
+## 📊 GitHub Stats (🔥 Must-have)
+![Basavaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=basavaraj0623&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basavaraj0623&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🤝 Let’s Connect
-- 🌐 Portfolio: [Visit here](https://basavaraj-h-portfolio-site.lovable.app)
-- 💻 GitHub: You’re already here 😄
+- 🌐 Portfolio: https://basavaraj-h-portfolio-site.lovable.app  
+- 💻 GitHub: https://github.com/basavaraj0623  
+
+---
 
 ⭐ *If you like my work, consider giving a star to my repositories!*
